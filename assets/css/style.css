@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    
 }
 
 body {
@@ -198,11 +199,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-/* added code to fix the navbar at the top, I know it wasn't required for the assignment but I wanted to see if I could do it. Got the code from an example on W3 schools */
-.navbar {
-    overflow: hidden;
-    background-color: #333;
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
+
+
