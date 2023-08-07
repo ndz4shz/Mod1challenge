@@ -3,6 +3,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    
 }
 /* element selector */
 body {
@@ -199,3 +200,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+
