@@ -88,6 +88,8 @@ p {
     background-color: #2589bd;
 }
 /* combined lead, brand and cost since they all had the same value*/
+/* I tried to combine them all into one class with one name but it was messing the page up
+I'm sure I'm missing something there, feedback would be appreciated */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
